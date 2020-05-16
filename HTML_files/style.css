@@ -17,12 +17,12 @@ body{
 	margin-left: 50px; 
 	padding: inherit; 
 	font-weight: bold; 
-	background-color: #18b382;
+	background-color: #054833;
 	font-family: Georgia, Times, "Times New Roman", serif;
 }
 
 .dropdown-item{
-    color: #30615c; 
+    color: #2cac9f; 
 }
 
 .dropdown-menu .dropdown-item:hover, .dropdown-menu .dropdown-item:active{
@@ -37,7 +37,7 @@ body{
 /* Media Queries */
 @media (max-width: 991.98px){
 .navbar-expand-lg{
-	background-color: #18b382;
+	background-color: #054833;
 }
 .navbar{
     max-height: none; 
